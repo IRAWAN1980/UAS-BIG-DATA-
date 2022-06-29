@@ -1,8 +1,8 @@
 # UAS BIG DATA - Sale Per Country
 ----------------------
->Hafiz Kalam Abdillah
->1941720101
->TI-3A/08
+>Hafiz Kalam Abdillah<br>
+>1941720101<br>
+>TI-3A/08<br>
 ----------------------
 
 ## Link Youtube 
