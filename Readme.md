@@ -1,8 +1,8 @@
 # UAS BIG DATA - Sale Per Country
 ----------------------
-Hafiz Kalam Abdillah
-1941720101
-TI-3A/08
+>Hafiz Kalam Abdillah
+>1941720101
+>TI-3A/08
 ----------------------
 
 ## Link Youtube 
@@ -14,8 +14,8 @@ Data didapat dari file SalesJan2009.csv data tersebut yang berisikan data penjua
 https://drive.google.com/uc?export=download&id=1jQ8XYWvplGBXvAdxgmlzhjm0zCVZppf- 
 
 ## Hasil Run Program
-![](gif/01.png)
-![](gif/02.png)
-![](gif/03.png)
-![](gif/04.png)
-![](gif/05.png)
+![](pict/01.png)
+![](pict/02.png)
+![](pict/03.png)
+![](pict/04.png)
+![](pict/05.png)
