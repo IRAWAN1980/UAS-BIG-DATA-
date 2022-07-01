@@ -14,7 +14,7 @@ https://youtu.be/0QItPyGxUz8
 Data didapat dari file SalesJan2009.csv data tersebut yang berisikan data penjualan berbagai negara, data transaksi, tipe pembayaran, harga, kota, Provinsi, Negara, dan lain lain. Disini akan ditampilkan data penjulaan tiap negara.
 
 ## Source File 
-https://drive.google.com/uc?export=download&id=1rgpQq0d4jSLWqWr8dNf_eprOsfWyO9Wi
+https://drive.google.com/drive/u/0/folders/1BYjqc-bDtSnlSjOZ_NkcrRpI3Kgv-8ho
 
 ## Hasil Run Program
 ![](pict/01.png)
