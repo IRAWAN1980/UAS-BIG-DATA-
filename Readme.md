@@ -1,7 +1,10 @@
 # UAS BIG DATA - Sale Per Country
 ----------------------
->Hafiz Kalam Abdillah<br>
->1941720101<br>
+>Edi Irawan<br>
+>194172099<br>
+>TI-3A/08<br>
+>Arlan  Ady Pratama<br>
+>1941720042<br>
 >TI-3A/08<br>
 ----------------------
 
