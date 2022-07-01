@@ -8,8 +8,8 @@
 >TI-3A/08<br>
 ----------------------
 
-## Link Youtube 
-https://youtu.be/0QItPyGxUz8
+## Link Demo Project 
+https://drive.google.com/drive/u/0/folders/1yFLVFdsSjHmHv23TWcNFwJS9NmZze59R
 
 Data didapat dari file SalesJan2009.csv data tersebut yang berisikan data penjualan berbagai negara, data transaksi, tipe pembayaran, harga, kota, Provinsi, Negara, dan lain lain. Disini akan ditampilkan data penjulaan tiap negara.
 
